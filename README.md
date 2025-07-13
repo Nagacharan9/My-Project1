@@ -45,6 +45,6 @@
 <body>
   <h1>Naga Charan</h1>
  <p>Web Developer | Coder | Problem Solver</p>
-  <a href="https://github.com/yourusername" target="_blank">View My GitHub</a>
+  <a href="https://github.com/Nagacharan9" target="_blank">View My GitHub</a>
 </body>
 </html># My-Project1
